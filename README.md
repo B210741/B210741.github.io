@@ -7,7 +7,7 @@ This is a display of sample websites that I made using HTML and CSS.
 ## Projects
 - Delicious Dining Site
 - Movie Theater Site
-- 
+
 ### Delicious Dining Site
 
 This page is an example home page for a Culinary business. It's styled using CSS and contains a navbar, image containers and a form.
